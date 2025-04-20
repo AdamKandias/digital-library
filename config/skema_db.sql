@@ -152,4 +152,4 @@ INSERT INTO pengaturan (nama, nilai, deskripsi) VALUES
 ('durasi_peminjaman', '14', 'Durasi peminjaman buku dalam hari'),
 ('denda_per_hari', '10000', 'Jumlah denda per hari keterlambatan (dalam Rupiah)'),
 ('denda_buku_hilang', '100000', 'Jumlah denda untuk buku yang hilang (dalam Rupiah)'),
-('max_peminjaman', '3', 'Jumlah maksimum buku yang dapat dipinjam oleh satu anggota'),
+('max_peminjaman', '3', 'Jumlah maksimum buku yang dapat dipinjam oleh satu anggota');
